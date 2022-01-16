@@ -1,0 +1,11 @@
+{
+    "name": "ionx",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "stencil build --dev --watch --serve --config stencil.config.ts"
+    },
+    "devDependencies": {
+        "@stencil/core": "^2.12.1",
+        "typescript": "^4.5.4"
+    }
+}
