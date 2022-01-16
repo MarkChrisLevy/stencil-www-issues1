@@ -4,6 +4,9 @@
     "scripts": {
         "start": "stencil build --dev --watch --serve --config stencil.config.ts"
     },
+    "dependencies": {
+        "app-external": "github:MarkChrisLevy/stencil-www-issues2"
+    },
     "devDependencies": {
         "@stencil/core": "^2.12.1",
         "typescript": "^4.5.4"
